@@ -1,0 +1,13 @@
+### TODO:
+- Brackish Sea
+- Sessid
+- Mount Outset
+- Lake Nonsal
+	- This came from it originally being called "a non-saline lake" by the original Sessid inhabitants but poor document quality resulted in it being interpreted as a name. 
+- Mellifera Island 
+	- The island in Lake Nonsal that is made entirely of Basalt 
+- Aristaeus (diety)
+- Loam
+	- a main continent within Bind to the east of Falsen
+- Bind (the planet)
+- The Cult of Aristaeus 

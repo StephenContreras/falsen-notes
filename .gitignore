@@ -1,0 +1,8 @@
+.obsidian/cache
+.obsidian/themes
+.obsidian/page-preview.json
+.obsidian/workspace
+.obsidian/app.json
+.trash/
+.DS_Store
+Assets/*
